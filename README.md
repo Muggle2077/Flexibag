@@ -1,2 +1,0 @@
-# Flexibag
-Minecraft Datapack: Flexibag
